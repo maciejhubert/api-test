@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  description: Short API description
+  description: Short API description abc
   version: "0.1"
   title: API Documentation Title
   termsOfService: ""
