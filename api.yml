@@ -15,7 +15,7 @@ tags:
 - name: "pet"
   description: "Everything about your Pets"
   externalDocs:
-    description: "Find out more"
+    description: "Find out more123"
     url: "http://swagger.io"
 - name: "store"
   description: "Access to Petstore orders"
